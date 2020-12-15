@@ -1,0 +1,191 @@
+body{
+	background-color: #272727;
+	text-align: center;
+	font-family: arial, Sans-serif;
+}
+
+h1{
+	color: #66fcf1;
+}
+
+h2{
+	color: #c3c3c3;
+}
+
+p{
+	font-size: 18px;
+	color: #727272;
+}
+
+header{
+	padding: 20px;
+}
+
+header h1{
+	font-size: 25px;
+	color: #66fcf1;
+}
+
+header a{
+	text-decoration: none;
+	background-color: #272727;
+	font-size: 18px;
+	color: #66fcf1;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.banner{
+	background-image: url(../images/1headerpic.jpg);
+	background-size: cover;
+	height: 350px;
+}
+
+.header{
+	display: flex;
+	margin: 50px;
+}
+
+.header div{
+	padding: 30px;
+}
+
+.header form{
+	padding: 50px;
+	background-color: #3E3E3E;
+}
+
+.header input{
+	padding: 5px;
+	font-size: 20px;
+	color:#626262;
+	background-color: #C4C4C4;
+	border: none;
+}
+
+.header button{
+	padding: 5px;
+	font-size: 20px;
+	color: #242424;
+	background-color: #C4C4C4;
+}
+.header p{
+	margin-left: 15px;
+	margin-left: 15px;
+}
+.feature{
+	display: flex;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+.feature div{
+	text-align: center;
+	background-color: #3E3E3E; 
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+
+.feature img{
+	width: 300px;
+	height: 200px;
+	border-radius: 5px;
+}
+.feature p{
+	text-align: center;
+}
+
+.feature button{
+	padding: 5px;
+	font-size: 15px;
+	color: #242424;
+	background-color: #C4C4C4;
+}
+
+.vlog{
+	display: flex;
+	margin: 50px;
+}
+
+.vlog div{
+	padding: 20px;
+}
+
+.vlog img{
+	width: 500px;
+	height: 262px;
+	border-radius: 5px;
+}
+
+.vlog button{
+	padding: 5px;
+	font-size: 15px;
+	color: #242424;
+	background-color: #C4C4C4;
+	margin-left: 10px
+	
+}
+
+.identity{
+	color: #c3c3c3;
+	margin: 50px;
+}
+
+.identity p, h3{
+	text-align: left;
+}
+
+.identity img{
+	width: 300px;
+	height: auto;
+	border-radius: 20px;
+}
+
+.contact{
+	display: flex;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+.contact div{
+	padding: 20px;
+
+}
+
+.contact input{
+	padding: 13px;
+	font-size: 18px;
+	color:#626262;
+	background-color: #C4C4C4;
+	border: none;
+	width: 40%;
+}
+
+textarea{
+	padding: 10px;
+	color:#626262;
+	background-color: #C4C4C4;
+	font-size: 18px;
+	font-family: arial, Sans-serif;
+	width: 85%;
+}
+
+.contact button{
+	padding: 10px;
+	font-size: 20px;
+	color: #242424;
+	background-color: #C4C4C4;
+}
+
+footer{
+	padding: 20px;
+	background-color: #3E3E3E;
+}
+
+footer img{
+	width: 30px;
+	padding: 10px;
+}
